@@ -1,6 +1,6 @@
 #include<iostream>
 #include<queue>
-using namespace std;
+using namespace std ;
 
 class node{
     public:
@@ -75,4 +75,3 @@ int main(){
     level_order_traversal(root) ;
     return 0 ;
 }
-
