@@ -6,6 +6,7 @@ using namespace std ;
 class Solution{
     public:
     //Function to find the height of a binary tree.
+    //Takes tree as input .
     int height(struct Node* root){
         
         int height = 0 ;
