@@ -128,7 +128,11 @@ class Solution {
         
     }
     
-    
+    int diameter(Node* root){
+        pair<int , int> ans = fast_diameter(root) ;
+        
+        return ans.first ;
+    }
     
 };
 
