@@ -84,6 +84,7 @@ Node* buildTree(string str)
 //User function template for C++..
 
 /*
+
 struct Node
 {
     int data;
